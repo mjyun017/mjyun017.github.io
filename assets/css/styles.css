@@ -213,13 +213,13 @@ p {
 	border-radius: 50%;
 	width: 15px;
 	height: 15px;
-	background: rgba(0,0,0,0.3);
+	background: #e6f7ff;
 	margin: 0 10px;
 	cursor: pointer;
 }
 
 .carousel_indicator.current-slide {
-	background: rgba(0,0,0,0.75);
+	background: #009de6;
 }
 
 .is-hidden {
